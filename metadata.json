@@ -1,0 +1,6 @@
+{
+  "name": "Aura Residences - Luxury Real Estate",
+  "description": "Discover premium luxury living. Get exclusive early access and brochures for our upcoming flagship properties.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
